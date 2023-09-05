@@ -1,0 +1,32 @@
+对应起来
+
+个人中心警号不要
+
+https://www.jianshu.com/p/de487d4187e5
+git reflog master 
+git reset --hard 5c175dd
+
+账号admin
+密码admin123
+
+发请求带app
+
+插件：
+- 极简插件
+- 腾讯翻译
+- SuperCopy 超级复制
+
+uniapp路由传参，需要序列化和反序列化
+
+
+字典管理：
+文本类型 查数据字典
+
+
+Vue-Quill-Editor
+
+
+
+都是待审核
+进度条，数据太多和原型图对不上，看怎么分类
+查询怎么做，不知道拿什么参数

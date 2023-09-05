@@ -1,0 +1,9 @@
+		handleDblClick(flag) {
+			if (this.isDblClick === flag) {
+				this.active = ''
+				this.isDblClick = ''
+				return
+			};
+			flag === 0 ? this.active = '是' : this.active = '否';
+			this.isDblClick = flag
+		}

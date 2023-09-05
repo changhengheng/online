@@ -1,0 +1,1 @@
+页面支持通过配置 navigationStyle为custom，或titleNView为false，来禁用原生导航栏。
