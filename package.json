@@ -1,0 +1,17 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://gitlab.com/myblog6962533/myBlog.git",
+  "author": "智慧之泉 <113066630@qq.com>",
+  "license": "MIT",
+  "devDependencies": {},
+  "dependencies": {
+    "vitepress": "^1.0.0-rc.10"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:serve": "vitepress serve docs"
+  }
+}
