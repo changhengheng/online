@@ -11,7 +11,7 @@ export default {
   // site-level options
   title: "VitePress",
   description: "Just playing around.",
-
+  dest: "public",
   themeConfig: {
     // theme-level options
     nav,
