@@ -15,8 +15,8 @@
 
 ## 导航
 
-- [前置](./chapter1/1.前置.md)
-- [tsconfig.json](./chapter1/2.tsconfig.json.md)
+- [前置](./base/1.前置.md)
+- [tsconfig.json](./base/2.tsconfig.json.md)
 
 ### 面试八股文
 

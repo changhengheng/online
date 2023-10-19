@@ -38,5 +38,3 @@ footer: MIT Licensed | Copyright © 2018-present Evan You
 [线上笔记地址](https://24kcs.github.io/vue3_study)
 
 [课程地址](https://www.bilibili.com/video/BV1NR4y1x7Ab?p=9)
-
-[源码地址]()

@@ -4,7 +4,7 @@
 
 # 导航
 
-- [前端](./frontend/)
-- [后端](./backend/)
-- [面试](./interview/)
-- [业务逻辑](./businesslogic/)
+- [前端](./frontend/index.md)
+- [后端](./backend/index.md)
+- [面试](./interview/index.md)
+- [业务逻辑](./businesslogic/index.md)
